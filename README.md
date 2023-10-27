@@ -6,7 +6,6 @@
 <h1 align="left">📱Socials:</h1>
 <p align="left">
 
-<a href="https://twitter.com/nftfede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nftfede" height="30" width="40" /></a>
 <a href="https://discord.com/users/646076973025722388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fedev" height="40" width="40" /></a>
 <a href="https://instagram.com/cavallini_federico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cavallini_federico" height="30" width="40" /></a>
 <a href="https://leetcode.com/fedev100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fedevcoding" height="30" width="40" /></a>
