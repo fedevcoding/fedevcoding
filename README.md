@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi! I'm Federico 👋</b></h1>
-<h3 align="center">I'm a 16 years old developer from Italy 🧑‍💻
+<h3 align="center">I'm a young developer from Italy 🧑‍💻
 
 <br/>
 
