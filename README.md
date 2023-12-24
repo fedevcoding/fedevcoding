@@ -58,6 +58,9 @@
   <a href="https://react.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
     <a href="https://vitejs.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=vite" />
   </a>
