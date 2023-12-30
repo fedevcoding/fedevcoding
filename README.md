@@ -3,20 +3,6 @@
 
 <br/>
 
-<h1 align="left">📱Socials:</h1>
-<p align="left">
-
-<div style="display: flex; gap: 8px">
-  <a href="https://discordapp.com/users/646076973025722388" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord"  height="40" width="40" />
-  </a>
-
-  <a href="https://www.instagram.com/cavallini_federico" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"  height="40" width="40"/>
-  </a>
-</div>
-
-<br />
 <h1 align="left">🛠️ Tech stack:</h1>
 
 <div>
