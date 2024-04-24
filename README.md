@@ -114,7 +114,6 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedevcoding&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&layout=compact&langs_count=6)
-![Top Langs](https://streak-stats.demolab.com/?user=fedevcoding&theme=dark)
 
 <!--[![wakatime](https://wakatime.com/badge/user/3c973ae8-c1c9-466a-8f6e-81749a68ccde.svg)](https://wakatime.com/@3c973ae8-c1c9-466a-8f6e-81749a68ccde)-->
 
